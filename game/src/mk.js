@@ -601,7 +601,8 @@
   mk.arenas = {
     types: {
       TOWER      : 0,
-      THRONE_ROOM: 1
+      THRONE_ROOM: 1,
+      ESCUELA: 2
     }
   };
 
